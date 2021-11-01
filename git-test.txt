@@ -5,3 +5,14 @@ Cài Git vào foler:
 Đưa file vào Staging Area để Git theo dõi các thay đổi của file:
 - git add <tên_file>
 - git add .
+Cam kết code trước khi gửi: git commit -m "Message" (Message tuỳ chọn)
+
+Nếu đang ở bước tạo git cho foler:
+-  git remote add origin https://github.com/khoa03052000/git-trainning-gcd.git
+
+Đã remote xong, đẩy code lên trên internet: git push -u origin main
+
+
+Đăng ký thông tin máy:
+git config --global user.name "Huynh Tan Khoa"
+git config --global user.email "cuonglieu3256@gmail.com"
