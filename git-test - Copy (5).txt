@@ -1,7 +1,0 @@
-Git tutorial:
-Cài Git vào foler:
-- Chuột phải vào folder chọn Git Bash here.
-- Sau khi hiện ra termianl, thì gõ lệnh: git init
-Đưa file vào Staging Area để Git theo dõi các thay đổi của file:
-- git add <tên_file>
-- git add .
